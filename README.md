@@ -2,7 +2,7 @@
 
 Welcome to Dapplink! This user manual will guide you through the process of using the Dapplink Bridge for cross-chain interoperability and staking protocol on our Layer 3 network. By following these steps, you'll be able to seamlessly bridge assets between different blockchain platforms and participate in staking activities.
 
-![image](https://github.com/shivanshu814/User-Manual/assets/97324405/0f9f2824-5925-492f-870d-f029f83668fe)
+![image](https://github.com/eniac-x-labs/User-Manual-Bridge/assets/97324405/f1001d92-4d06-4d74-b60b-320992664bc5)
 
 **1. Accessing Dapplink:**
    - Visit our website at [https://bridge.testnet.dapplink.xyz/bridge](https://bridge.testnet.dapplink.xyz/bridge) to access the Dapplink platform.

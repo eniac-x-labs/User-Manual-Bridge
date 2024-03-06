@@ -97,7 +97,8 @@ If you encounter any issues or have questions about using the Dapplink Bridge or
 - **GitHub:** [Visit our GitHub repository](https://github.com/eniac-x-labs)
 
 We're committed to providing prompt and helpful assistance. Don't hesitate to contact us!
-**12. Following Dapplink:**
+
+**14. Following Dapplink:**
    - Stay updated on the latest developments, announcements, and community discussions by following Dapplink on Discord, Twitter, Telegram, and GitHub.
 
 **Conclusion:**
